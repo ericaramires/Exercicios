@@ -1,0 +1,194 @@
+Item Number;Category;Qtr;Date;Description of Transaction; Withdrawal ; Fee ; Deposit ; Balance 
+1;A Beginning Balance;1;2009-01-01;Starting Account Balance;;; $2 743,28 ; $2 743,28 
+927;Grocery;1;2009-01-01;Mr G's; $58,18 ;;; $2 685,10 
+928;Mortgage;1;2009-01-01;Faceless Mortgage Corp; $780,00 ;;; $1 905,10 
+929;Grocery;1;2009-01-02;Mr G's; $114,42 ;;; $1 790,68 
+930;Electric;1;2009-01-03;ERG/Synergy; $37,09 ;;; $1 753,59 
+931;Credit Card;1;2009-01-08;Largo Credit Corp; $150,00 ;;; $1 603,59 
+932;Grocery;1;2009-01-09;Mr G's; $71,14 ;;; $1 532,45 
+ATM;ATM;1;2009-01-10;Cash; $100,00 ;;; $1 432,45 
+933;Telephone;1;2009-01-12;Busysignal Phone Co; $42,64 ;;; $1 389,81 
+934;Cable;1;2009-01-15;Costly Cable Co; $28,64 ;;; $1 361,17 
+ATM;ATM;1;2009-01-20;Cash; $30,00 ;;; $1 331,17 
+935;Grocery;1;2009-01-26;Wings' R Us ; $115,35 ;;; $1 215,82 
+936;Water;1;2009-01-26;City Utilities; $28,72 ;;; $1 187,10 
+ATM;ATM;1;2009-01-26;Cash; $70,00 ; $3,00 ;; $1 114,10 
+937;Electric;1;2009-01-28;ERG/Synergy; $39,63 ;;; $1 074,47 
+ATM;ATM;1;2009-01-28;Cash; $100,00 ;;; $974,47 
+938;Gas;1;2009-01-31;Nat's Gas Service; $112,59 ;;; $861,88 
+939;Grocery;1;2009-01-31;Mr G's; $178,49 ;;; $683,39 
+940;Mortgage;1;2009-02-01;Faceless Mortgage Corp; $780,00 ;;; $(96,61)
+ATM;ATM;1;2009-02-01;Cash; $50,00 ;;; $(146,61)
+;Paycheck;1;2009-02-01;Direct deposited;;; $1 723,19 ; $1 576,58 
+941;Credit Card;1;2009-02-06;Largo Credit Corp; $150,00 ;;; $1 426,58 
+ATM;ATM;1;2009-02-09;Cash; $40,00 ; $2,50 ;; $1 384,08 
+942;Telephone;1;2009-02-14;Busysignal Phone Co; $43,76 ;;; $1 340,32 
+943;Grocery;1;2009-02-15;Mr G's; $300,43 ;;; $1 039,89 
+944;Cable;1;2009-02-15;Costly Cable Co; $28,64 ;;; $1 011,25 
+ATM;ATM;1;2009-02-15;Cash; $100,00 ;;; $911,25 
+ATM;ATM;1;2009-02-17;Cash; $80,00 ;;; $831,25 
+ATM;ATM;1;2009-02-25;Cash; $70,00 ;;; $761,25 
+945;Water;1;2009-02-26;City Utilities; $28,72 ;;; $732,53 
+946;Electric;1;2009-02-28;ERG/Synergy; $39,45 ;;; $693,08 
+947;Gas;1;2009-02-28;Nat's Gas Service; $120,77 ;;; $572,31 
+948;Mortgage;1;2009-03-01;Faceless Mortgage Corp; $780,00 ;;; $(207,69)
+ATM;ATM;1;2009-03-01;Cash; $80,00 ;;; $(287,69)
+;Paycheck;1;2009-03-01;Direct deposited;;; $1 723,19 ; $1 435,50 
+949;Grocery;1;2009-03-04;Mr G's; $169,84 ;;; $1 265,66 
+ATM;ATM;1;2009-03-04;Cash; $70,00 ;;; $1 195,66 
+950;Grocery;1;2009-03-05;Mr G's; $44,08 ;;; $1 151,58 
+951;Credit Card;1;2009-03-06;Largo Credit Corp; $150,00 ;;; $1 001,58 
+ATM;ATM;1;2009-03-14;Cash; $90,00 ; $3,00 ;; $908,58 
+952;Cable;1;2009-03-15;Costly Cable Co; $28,64 ;;; $879,94 
+953;Telephone;1;2009-03-16;Busysignal Phone Co; $50,74 ;;; $829,20 
+954;Grocery;1;2009-03-18;Mr G's; $131,51 ;;; $697,69 
+ATM;ATM;1;2009-03-22;Cash; $30,00 ;;; $667,69 
+955;Water;1;2009-03-26;City Utilities; $28,72 ;;; $638,97 
+956;Grocery;1;2009-03-27;Mr G's; $81,79 ;;; $557,18 
+957;Electric;1;2009-03-28;ERG/Synergy; $35,52 ;;; $521,66 
+958;Grocery;1;2009-03-29;Mr G's; $94,59 ;;; $427,07 
+959;Gas;1;2009-03-30;Nat's Gas Service; $73,87 ;;; $353,20 
+960;Mortgage;2;2009-04-01;Faceless Mortgage Corp; $780,00 ;;; $(426,80)
+961;Grocery;2;2009-04-02;Mr G's; $133,64 ;;; $(560,44)
+;Paycheck;2;2009-04-02;Direct deposited;;; $1 723,19 ; $1 162,75 
+962;Credit Card;2;2009-04-04;Largo Credit Corp; $150,00 ;;; $1 012,75 
+963;Grocery;2;2009-04-06;Mr G's; $36,98 ;;; $975,77 
+964;Telephone;2;2009-04-13;Busysignal Phone Co; $46,38 ;;; $929,39 
+965;Cable;2;2009-04-15;Costly Cable Co; $28,64 ;;; $900,75 
+966;Grocery;2;2009-04-17;Mr G's; $149,83 ;;; $750,92 
+967;Grocery;2;2009-04-21;Mr G's; $116,73 ;;; $634,19 
+ATM;ATM;2;2009-04-23;Cash; $160,00 ;;; $474,19 
+ATM;ATM;2;2009-04-25;Cash; $60,00 ;;; $414,19 
+968;Water;2;2009-04-26;City Utilities; $28,72 ;;; $385,47 
+969;Electric;2;2009-04-27;ERG/Synergy; $34,14 ;;; $351,33 
+970;Gas;2;2009-04-28;Nat's Gas Service; $71,97 ;;; $279,36 
+971;Mortgage;2;2009-05-01;Faceless Mortgage Corp; $780,00 ;;; $(500,64)
+;Paycheck;2;2009-05-01;Direct deposited;;; $1 723,19 ; $1 222,55 
+972;Credit Card;2;2009-05-03;Largo Credit Corp; $150,00 ;;; $1 072,55 
+ATM;ATM;2;2009-05-08;Cash; $80,00 ;;; $992,55 
+ATM;ATM;2;2009-05-14;Cash; $80,00 ;;; $912,55 
+973;Cable;2;2009-05-15;Costly Cable Co; $28,64 ;;; $883,91 
+974;Grocery;2;2009-05-15;Mr G's; $131,53 ;;; $752,38 
+975;Telephone;2;2009-05-15;Busysignal Phone Co; $51,97 ;;; $700,41 
+976;Void;2;2009-05-26;;;;; $700,41 
+977;Electric;2;2009-05-26;ERG/Synergy; $37,37 ;;; $663,04 
+978;Grocery;2;2009-05-26;Mr G's; $51,98 ;;; $611,06 
+979;Gas;2;2009-05-30;Nat's Gas Service; $49,73 ;;; $561,33 
+980;Water;2;2009-05-30;City Utilities; $35,13 ;;; $526,20 
+981;Grocery;2;2009-05-31;Mr G's; $67,21 ;;; $458,99 
+982;Mortgage;2;2009-06-01;Faceless Mortgage Corp; $780,00 ;;; $(321,01)
+;Paycheck;2;2009-06-01;Direct deposited;;; $1 723,19 ; $1 402,18 
+983;Grocery;2;2009-06-03;Coffee Lady; $29,95 ;;; $1 372,23 
+984;Credit Card;2;2009-06-06;Largo Credit Corp; $150,00 ;;; $1 222,23 
+985;Grocery;2;2009-06-08;Mr G's; $137,86 ;;; $1 084,37 
+ATM;ATM;2;2009-06-11;Cash; $30,00 ;;; $1 054,37 
+ATM;ATM;2;2009-06-12;Cash; $70,00 ;;; $984,37 
+986;Telephone;2;2009-06-14;Busysignal Phone Co; $55,84 ;;; $928,53 
+987;Cable;2;2009-06-15;Costly Cable Co; $28,64 ;;; $899,89 
+988;Grocery;2;2009-06-18;Mr G's; $134,41 ;;; $765,48 
+989;Grocery;2;2009-06-20;Mr G's; $100,47 ;;; $665,01 
+990;Grocery;2;2009-06-21;Mr G's; $81,94 ;;; $583,07 
+991;Water;2;2009-06-26;City Utilities; $25,57 ;;; $557,50 
+992;Electric;2;2009-06-27;ERG/Synergy; $36,07 ;;; $521,43 
+993;Void;2;2009-06-28;;;;; $521,43 
+994;Grocery;2;2009-06-28;Mr G's; $71,66 ;;; $449,77 
+ATM;ATM;2;2009-06-28;Cash; $70,00 ;;; $379,77 
+995;Gas;2;2009-06-30;Nat's Gas Service; $23,34 ;;; $356,43 
+996;Mortgage;3;2009-07-01;Faceless Mortgage Corp; $780,00 ;;; $(423,57)
+;Paycheck;3;2009-07-02;Direct deposited;;; $1 723,19 ; $1 299,62 
+997;Credit Card;3;2009-07-05;Largo Credit Corp; $150,00 ;;; $1 149,62 
+ATM;ATM;3;2009-07-07;Cash; $70,00 ;;; $1 079,62 
+ATM;ATM;3;2009-07-07;Cash; $100,00 ; $2,50 ;; $977,12 
+998;Grocery;3;2009-07-08;Mr G's; $94,99 ;;; $882,13 
+999;Cable;3;2009-07-15;Costly Cable Co; $28,64 ;;; $853,49 
+1000;Telephone;3;2009-07-15;Busysignal Phone Co; $54,65 ;;; $798,84 
+ATM;ATM;3;2009-07-20;Cash; $70,00 ;;; $728,84 
+1001;Grocery;3;2009-07-23;Mr G's; $147,19 ;;; $581,65 
+1002;Water;3;2009-07-26;City Utilities; $38,94 ;;; $542,71 
+1003;Electric;3;2009-07-27;ERG/Synergy; $44,48 ;;; $498,23 
+1004;Gas;3;2009-07-31;Nat's Gas Service; $22,15 ;;; $476,08 
+1005;Mortgage;3;2009-08-01;Faceless Mortgage Corp; $780,00 ;;; $(303,92)
+;Paycheck;3;2009-08-01;Direct deposited;;; $1 723,19 ; $1 419,27 
+1006;Grocery;3;2009-08-03;Mr G's; $25,45 ;;; $1 393,82 
+1007;Grocery;3;2009-08-03;Mr G's; $33,82 ;;; $1 360,00 
+1008;Credit Card;3;2009-08-03;Largo Credit Corp; $150,00 ;;; $1 210,00 
+1009;Grocery;3;2009-08-04;Mr G's; $149,73 ;;; $1 060,27 
+ATM;ATM;3;2009-08-05;Cash; $30,00 ;;; $1 030,27 
+ATM;ATM;3;2009-08-05;Cash; $110,00 ;;; $920,27 
+ATM;ATM;3;2009-08-10;Cash; $100,00 ;;; $820,27 
+ATM;ATM;3;2009-08-11;Cash; $40,00 ;;; $780,27 
+1010;Grocery;3;2009-08-14;Mr G's; $108,16 ;;; $672,11 
+1011;Telephone;3;2009-08-14;Busysignal Phone Co; $55,45 ;;; $616,66 
+1012;Cable;3;2009-08-15;Costly Cable Co; $28,64 ;;; $588,02 
+1013;Water;3;2009-08-26;City Utilities; $21,34 ;;; $566,68 
+1014;Grocery;3;2009-08-27;Mr G's; $100,79 ;;; $465,89 
+1015;Electric;3;2009-08-28;ERG/Synergy; $48,67 ;;; $417,22 
+1016;Gas;3;2009-08-28;Nat's Gas Service; $20,32 ;;; $396,90 
+1017;Mortgage;3;2009-09-01;Faceless Mortgage Corp; $780,00 ;;; $(383,10)
+1018;Grocery;3;2009-09-02;Mr G's; $123,77 ;;; $(506,87)
+ATM;ATM;3;2009-09-03;Cash; $70,00 ;;; $(576,87)
+;Paycheck;3;2009-09-03;Direct deposited;;; $1 723,19 ; $1 146,32 
+ATM;ATM;3;2009-09-04;Cash; $90,00 ;;; $1 056,32 
+1019;Grocery;3;2009-09-06;Mr G's; $108,54 ;;; $947,78 
+1020;Grocery;3;2009-09-06;Mr G's; $155,43 ;;; $792,35 
+1021;Credit Card;3;2009-09-06;Largo Credit Corp; $150,00 ;;; $642,35 
+1022;Telephone;3;2009-09-14;Busysignal Phone Co; $34,59 ;;; $607,76 
+1023;Cable;3;2009-09-15;Costly Cable Co; $28,64 ;;; $579,12 
+ATM;ATM;3;2009-09-15;Cash; $40,00 ;;; $539,12 
+1024;Grocery;3;2009-09-16;Mr G's; $70,60 ;;; $468,52 
+ATM;ATM;3;2009-09-19;Cash; $40,00 ;;; $428,52 
+1025;Grocery;3;2009-09-23;Mr G's; $97,31 ;;; $331,21 
+ATM;ATM;3;2009-09-23;Cash; $50,00 ; $2,50 ;; $278,71 
+1026;Water;3;2009-09-26;City Utilities; $34,04 ;;; $244,67 
+1027;Electric;3;2009-09-27;ERG/Synergy; $44,45 ;;; $200,22 
+ATM;ATM;3;2009-09-28;Cash; $100,00 ;;; $100,22 
+1028;Gas;3;2009-09-29;Nat's Gas Service; $18,86 ;;; $81,36 
+1029;Mortgage;4;2009-10-01;Faceless Mortgage Corp; $780,00 ;;; $(698,64)
+;Paycheck;4;2009-10-01;Direct deposited;;; $1 723,19 ; $1 024,55 
+1030;Grocery;4;2009-10-03;Mr G's; $29,45 ;;; $995,10 
+1031;Credit Card;4;2009-10-05;Largo Credit Corp; $150,00 ;;; $845,10 
+1032;Grocery;4;2009-10-10;Mr G's; $128,19 ;;; $716,91 
+1033;Cable;4;2009-10-15;Costly Cable Co; $33,97 ;;; $682,94 
+1034;Grocery;4;2009-10-16;Mr G's; $78,95 ;;; $603,99 
+1035;Grocery;4;2009-10-16;Mr G's; $116,30 ;;; $487,69 
+1036;Telephone;4;2009-10-16;Busysignal Phone Co; $51,73 ;;; $435,96 
+1037;Grocery;4;2009-10-22;Mr G's; $90,15 ;;; $345,81 
+ATM;ATM;4;2009-10-25;Cash; $70,00 ;;; $275,81 
+1038;Electric;4;2009-10-26;ERG/Synergy; $40,68 ;;; $235,13 
+1039;Water;4;2009-10-26;City Utilities; $35,60 ;;; $199,53 
+ATM;ATM;4;2009-10-28;Cash; $60,00 ;;; $139,53 
+1040;Gas;4;2009-10-30;Nat's Gas Service; $48,32 ;;; $91,21 
+ATM;ATM;4;2009-10-31;Cash; $70,00 ;;; $21,21 
+1041;Mortgage;4;2009-11-01;Faceless Mortgage Corp; $780,00 ;;; $(758,79)
+;Paycheck;4;2009-11-01;Direct deposited;;; $1 723,19 ; $964,40 
+1042;Credit Card;4;2009-11-02;Largo Credit Corp; $150,00 ;;; $814,40 
+1043;Grocery;4;2009-11-08;Mr G's; $94,99 ;;; $719,41 
+ATM;ATM;4;2009-11-12;Cash; $70,00 ;;; $649,41 
+1044;Grocery;4;2009-11-13;Mr G's; $147,19 ;;; $502,22 
+1045;Telephone;4;2009-11-14;Busysignal Phone Co; $43,76 ;;; $458,46 
+1046;Cable;4;2009-11-15;Costly Cable Co; $33,97 ;;; $424,49 
+1047;Grocery;4;2009-11-18;Mr G's; $25,45 ;;; $399,04 
+ATM;ATM;4;2009-11-19;Cash; $100,00 ; $3,00 ;; $296,04 
+1048;Grocery;4;2009-11-23;Mr G's; $33,82 ;;; $262,22 
+1049;Grocery;4;2009-11-23;Mr G's; $149,73 ;;; $112,49 
+ATM;ATM;4;2009-11-24;Cash; $70,00 ;;; $42,49 
+1050;Water;4;2009-11-26;City Utilities; $25,57 ;;; $16,92 
+1051;Electric;4;2009-11-27;ERG/Synergy; $44,48 ;;; $(27,56)
+1052;Gas;4;2009-11-30;Nat's Gas Service; $73,87 ;;; $(101,43)
+;Paycheck;4;2009-11-30;Direct deposited;;; $1 723,19 ; $1 621,76 
+1053;Mortgage;4;2009-12-01;Faceless Mortgage Corp; $780,00 ;;; $841,76 
+1054;Grocery;4;2009-12-03;Mr G's; $25,45 ;;; $816,31 
+1055;Grocery;4;2009-12-05;Mr G's; $33,82 ;;; $782,49 
+1056;Credit Card;4;2009-12-07;Largo Credit Corp; $150,00 ;;; $632,49 
+ATM;ATM;4;2009-12-08;Cash; $20,00 ;;; $612,49 
+1057;Grocery;4;2009-12-14;Mr G's; $149,73 ;;; $462,76 
+ATM;ATM;4;2009-12-14;Cash; $60,00 ;;; $402,76 
+1058;Cable;4;2009-12-15;Costly Cable Co; $33,97 ;;; $368,79 
+1059;Telephone;4;2009-12-16;Busysignal Phone Co; $85,84 ;;; $282,95 
+1060;Grocery;4;2009-12-24;Mr G's; $108,16 ;;; $174,79 
+ATM;ATM;4;2009-12-25;Cash; $60,00 ;;; $114,79 
+1061;Water;4;2009-12-26;City Utilities; $34,04 ;;; $80,75 
+1062;Grocery;4;2009-12-27;Mr G's; $100,79 ;;; $(20,04)
+1064;Electric;4;2009-12-28;ERG/Synergy; $64,67 ;;; $(84,71)
+1065;Gas;4;2009-12-28;Nat's Gas Service; $91,97 ;;; $(176,68)
+;;;;;;;;
